@@ -1,4 +1,4 @@
-# Fahalullah Fahim Portfolio
+#Portfolio
 
 Full-stack portfolio starter with React + Vite frontend, Node.js + Express backend, and MySQL database.
 
